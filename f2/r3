@@ -1,0 +1,87 @@
+^Z^Z^Zf [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+^Z^Z^Z^Z^Z^Zf [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+f [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+^Z^Z^Z^Z^Z^Zf [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+f [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+iii^Z^Z^Z^Z^Z^Zf [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+f [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+else
+        echo "$1 is not five"
+fi
+f [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+^Z^Z^Z^Z^Z^Zf [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+f [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+iii^Z^Z^Z^Z^Z^Zf [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+f [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+f [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
+f [ $1 -eq 5 ]
+then
+        echo "$1 is five"
+else
+        echo "$1 is not five"
+fi
